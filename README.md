@@ -1,1 +1,3 @@
 # SICAD-Mobile
+
+Este projeto é uma continuação do ja existente Sistema de Certificação Academica Digital, uma iniciação cientifica regida pelo Professor Luis Augusto Mattos Mendes, que tem como  objetivo solucionar problemas institucionais quanto as dificuldades encontradas na emisão de certificados de atividades de extençoes que ocorrem dentro do Centro Federal de Ciencia e Tecnologia de Minas Gerais (CEFET-MG).
